@@ -149,10 +149,3 @@ We have six CSV files for this project.
 - Total number of rows in data: 7
 
 - Total number of columns: 13
-
-
-
-
-
-## Understand
-AtliQ is facing a significant challenge from its competitors, which means it is losing its revenue and market share. As a result, the CEO of AtliQ has decided to onboard data analytics using Python to make data-informed decisions so that it can increase its revenue.
