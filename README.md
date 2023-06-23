@@ -185,11 +185,11 @@ Delhi has the highest occupancy rate, while Bangalore has the lowest occupancy r
 
 The average occupancy rate on weekends is significantly greater than on weekdays. The average occupancy rate at weekends and weekdays is 72.34% and 50.88%, respectively.
 
-**To increase the occupancy rate on weekdays and generate more revenue for AtliQ, I have come up with two strategies:**
+    To increase the occupancy rate on weekdays and generate more revenue for AtliQ, I have come up with two strategies:**
 
-* Targeted Marketing: Develop a targeted marketing campaign specifically tailored to attract weekday guests, such as highly-promoted weekday offers, special discounts, or discounted rates to incentivize them to choose weekdays for their stay.
+    Targeted Marketing: Develop a targeted marketing campaign specifically tailored to attract weekday guests, such as highly-promoted weekday offers, special discounts, or discounted rates to incentivize them to choose weekdays for their stay.
 
-* Loyalty Program: Develop a loyalty program that rewards guests for staying on weekdays. Offer exclusive benefits or discounts for repeat weekday and weekend guests to incentivize their loyalty and increase weekday occupancy.
+    Loyalty Program: Develop a loyalty program that rewards guests for staying on weekdays. Offer exclusive benefits or discounts for repeat weekday and weekend guests to incentivize their loyalty and increase weekday occupancy.
 
 
 **4. What were the average occupancy rates in different cities in June?**
@@ -216,9 +216,10 @@ The average occupancy rates of Delhi, Hyderabad, Mumbai, and Bangalore in June a
 The result indicates the revenue realization in each city, with Mumbai having the highest revenue, followed by Bangalore, Hyderabad, and Delhi.
 Mumbai may have a larger market size or higher demand for the services offered by AtliQ, resulting in higher revenue realization compared to other cities.
 
-**To increase the revenue realisation in Bangalore, Hyderabad, and Delhi for AtliQ. I have come up with one strategy:**
+    To increase the revenue realisation in Bangalore, Hyderabad, and Delhi for AtliQ. I have come up with one strategy:
 
-Partnerships and Collaborations: Build partnerships with local businesses, travel agencies, or event organisers to tap into their networks and attract more customers. Collaborations can result in mutually beneficial marketing opportunities and increase revenue.
+    Partnerships and Collaborations: Build partnerships with local businesses, travel agencies, or event organisers to tap into their networks and attract more 
+    customers. Collaborations can result in mutually beneficial marketing opportunities and increase revenue.
 
 **7. What is the month-by-month revenue?**
 
