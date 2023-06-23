@@ -245,7 +245,7 @@ The highest revenue was recorded in July 2022 with 243,180,932, followed by May 
 
 Atliq Exotica emerges as the top-performing hotel with the highest revenue of 133,619,226. It is closely followed by Atliq Palace and Atliq City, which generated revenues of 125,553,143 and 118,290,783, respectively. Atliq Grands secured revenue of 87,245,939, while Atliq Seasons recorded comparatively lower revenue of 26,838,223.
 
-<img width="1047" alt="Screenshot 2023-06-23 at 16 28 18" src="https://github.com/AnalystEric/Hotel_Booking_Analysis/assets/127030648/7978984e-a040-490c-9786-dba94d9d3515">
+<img width="1071" alt="Screenshot 2023-06-23 at 16 57 02" src="https://github.com/AnalystEric/Hotel_Booking_Analysis/assets/127030648/12ea091a-8f12-4409-a737-7e2b31ed583c">
 
 **9. Create a bar chart to show the average rating per city.**
 
@@ -259,8 +259,7 @@ Atliq Exotica emerges as the top-performing hotel with the highest revenue of 13
 The given result displays the guests' ratings for four cities: Delhi (3.79), Mumbai (3.66), Hyderabad (3.65), and Bangalore (3.41).
 Delhi has the highest rating, while Bangalore has the lowest rating among the four cities.
 
-<img width="987" alt="Screenshot 2023-06-23 at 16 30 11" src="https://github.com/AnalystEric/Hotel_Booking_Analysis/assets/127030648/2a82e99e-a703-4978-9cc7-ef1efa03403d">
-
+<img width="898" alt="Screenshot 2023-06-23 at 16 57 35" src="https://github.com/AnalystEric/Hotel_Booking_Analysis/assets/127030648/509abce6-2dd8-4ee6-8dba-f7ea2ce4b821">
 
 **10. Create a pie chart to show the total revenue realized per booking platform.**
 
