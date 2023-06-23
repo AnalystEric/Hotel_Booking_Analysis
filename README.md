@@ -1,5 +1,4 @@
 # <p align="center">Hotel Booking Analysis</p>
-As Data Analyst Students at Codebasics.io, after learning various applications of Python, we will apply the concepts and functions we have learned to create our first data analysis project.
 
 ## Background of the project
 An imaginary company called AtliQ Grands is a hotel chain that has operated in various cities in India for over 20 years. Their operations cover Delhi, Mumbai, Bangalore, and Hyderabad.
@@ -149,3 +148,6 @@ We have six CSV files for this project.
 - Total number of rows in data: 7
 
 - Total number of columns: 13
+ 
+
+
