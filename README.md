@@ -7,7 +7,7 @@ AltiQ Grands have four level hotels to let guests choose from AtliQ Seasons, Atl
 Furthermore, AtliQ Grand have different types of rooms: standard, elite, premium, and presidential. Customers can book the rooms on AtliQ's website or a third-party website.
 
 **Five steps are included in the project.**
-1. Understand Business Problem
+1. Understand Business Problems
 2. Data Exploration
 3. Data Cleaning
 4. Data Transformation
