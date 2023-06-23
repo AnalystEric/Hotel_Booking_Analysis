@@ -148,6 +148,140 @@ We have six CSV files for this project.
 - Total number of rows in data: 7
 
 - Total number of columns: 13
- 
+
+## Insight Generation
+
+**1. What is the average occupancy rate in each of the room categories?**
+
+    room_class      occ_pct
+    Presidential    59.28
+    Premium         58.03
+    Elite           58.01
+    Standard        57.89
+    Name: occ_pct, dtype: float64
+
+
+The standard, elite, premium, and presidential rooms have occupancy rates of 59.28%, 58.03%, 58.01%, and 57.89%, respectively.
+The presidential room has the highest occupancy rate, while the standard room has the lowest occupancy rate.
+However, there is not a significant difference in the occupancy rates among these four types of rooms; they all have around 58% of occupancy rate.
+
+**2. What is the average occupancy rate per city?**
+
+    city         occ_pct
+    Delhi        61.51
+    Hyderabad    58.12
+    Mumbai       57.91
+    Bangalore    56.33
+
+The result displays that the occupancy rates of Delhi, Hyderabad, Mumbai, and Bangalore are 61.51%, 58.12%, 57.91%, and 56.33%, respectively.
+Delhi has the highest occupancy rate, while Bangalore has the lowest occupancy rate.
+
+**3. What are the average occupancy rates for weekdays and weekends, and which one is better, weekdays or weekends?**
+
+    day_type    occ_pct
+    weekend     72.34
+    weekeday    50.88
+    Name: occ_pct, dtype: float64
+
+The average occupancy rate on weekends is significantly greater than on weekdays. The average occupancy rate at weekends and weekdays is 72.34% and 50.88%, respectively.
+
+**To increase the occupancy rate on weekdays and generate more revenue for AtliQ, I have come up with two strategies:**
+
+* Targeted Marketing: Develop a targeted marketing campaign specifically tailored to attract weekday guests, such as highly-promoted weekday offers, special discounts, or discounted rates to incentivize them to choose weekdays for their stay.
+
+* Loyalty Program: Develop a loyalty program that rewards guests for staying on weekdays. Offer exclusive benefits or discounts for repeat weekday and weekend guests to incentivize their loyalty and increase weekday occupancy.
+
+
+**4. What were the average occupancy rates in different cities in June?**
+
+    city         occ_pct
+    Delhi        62.47
+    Hyderabad    58.46
+    Mumbai       58.38
+    Bangalore    56.44
+    Name: occ_pct, dtype: float64
+
+The average occupancy rates of Delhi, Hyderabad, Mumbai, and Bangalore in June are 62.47%, 58.46%, 58.38%, and 56.44% respectively.
+
+**5. We got new data for the month of August. Append that to existing data.**
+
+**6. What is the total revenue_realised per city?**
+
+    city         revenue_realised
+    Mumbai       668569251
+    Bangalore    420383550
+    Hyderabad    325179310
+    Delhi        294404488
+
+The result indicates the revenue realization in each city, with Mumbai having the highest revenue, followed by Bangalore, Hyderabad, and Delhi.
+Mumbai may have a larger market size or higher demand for the services offered by AtliQ, resulting in higher revenue realization compared to other cities.
+
+**To increase the revenue realisation in Bangalore, Hyderabad, and Delhi for AtliQ. I have come up with one strategy:**
+
+Partnerships and Collaborations: Build partnerships with local businesses, travel agencies, or event organisers to tap into their networks and attract more customers. Collaborations can result in mutually beneficial marketing opportunities and increase revenue.
+
+**7. What is the month-by-month revenue?**
+
+    mmm yy    revenue_realized
+    Jul 22    243180932
+    May 22    234353183
+    Jun 22    229637640
+    Name: revenue_realized, dtype: int64
+
+The highest revenue was recorded in July 2022 with 243,180,932, followed by May 2022 with 234,353,183, and June 2022 with 229,637,640.
+
+**8. What is the total revenue realized per hotel type?**
+
+    property_name    revenue_realized
+    Atliq Exotica    133619226
+    Atliq Palace     125553143
+    Atliq City       118290783
+    Atliq Blu        108108129
+    Atliq Bay        107516312
+    Atliq Grands      87245939
+    Atliq Seasons     26838223
+    Name: revenue_realized, dtype: int64
+
+Atliq Exotica emerges as the top-performing hotel with the highest revenue of 133,619,226. It is closely followed by Atliq Palace and Atliq City, which generated revenues of 125,553,143 and 118,290,783, respectively. Atliq Grands secured revenue of 87,245,939, while Atliq Seasons recorded comparatively lower revenue of 26,838,223.
+
+<img width="1047" alt="Screenshot 2023-06-23 at 16 28 18" src="https://github.com/AnalystEric/Hotel_Booking_Analysis/assets/127030648/7978984e-a040-490c-9786-dba94d9d3515">
+
+**9. Create a bar chart to show the average rating per city.**
+
+    city         ratings_given
+    Delhi        3.79
+    Mumbai       3.66
+    Hyderabad    3.65
+    Bangalore    3.41
+    Name: ratings_given, dtype: float64
+
+The given result displays the guests' ratings for four cities: Delhi (3.79), Mumbai (3.66), Hyderabad (3.65), and Bangalore (3.41).
+Delhi has the highest rating, while Bangalore has the lowest rating among the four cities.
+
+<img width="987" alt="Screenshot 2023-06-23 at 16 30 11" src="https://github.com/AnalystEric/Hotel_Booking_Analysis/assets/127030648/2a82e99e-a703-4978-9cc7-ef1efa03403d">
+
+
+**10. Create a pie chart to show the total revenue realized per booking platform.**
+
+    booking_platform   percentage
+    direct offline     5.0
+    direct online     10.0
+    journey            6.0
+    logtrip           11.0
+    makeyourtrip      20.0
+    others            41.0
+    tripster           7.0
+    Name: revenue_realized, dtype: float64
+<img width="837" alt="Screenshot 2023-06-23 at 16 31 39" src="https://github.com/AnalystEric/Hotel_Booking_Analysis/assets/127030648/485c994d-eb5a-4bbc-b042-c134ad1ed40e">
+
+"Others" contributed the highest percentage, accounting for 41% of the total revenue.
+
+"Makeyourtrip" followed with a contributition of 20%.
+
+"Logtrip" and "diret online" had moderate contributions of 11% and 10%, respectively.
+
+"Direct online", "joureny" and "direct offline", had relatively lower percentages ranging from 5% to 7%.
+
+
 
 
