@@ -16,7 +16,8 @@ Furthermore, AtliQ Grand have different types of rooms: standard, elite, premium
 ## Built with
 Programming Language: Python
 
-Libraries used: - Pandas - for data manipulation and analysis 
+Libraries used:
+- Pandas - for data manipulation (data exploration and data cleaning) and analysis 
 - Matplotlib.pyplot - for creating visualisations, and pyplot provides a simplified interface for creating charts and plots
 - Numpy - for numerical computing
 
