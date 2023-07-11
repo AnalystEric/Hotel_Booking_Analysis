@@ -28,7 +28,7 @@ Using Python to make data-informed decisions, this project aims to help a hotel 
 
 ![Screenshot 2023-07-11 at 20 35 52](https://github.com/AnalystEric/Hotel_Booking_Analysis/assets/127030648/910a21dd-ec98-48ee-9297-c49224798f1b)
 
-We have six CSV files for this project.
+There are six CSV files for this project.
 
 **Data Dictionary for the CSV file: dim_date.csv**
 
