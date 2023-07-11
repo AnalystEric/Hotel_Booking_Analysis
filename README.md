@@ -1,7 +1,7 @@
 # <p align="center">Hotel Booking Analysis</p>
 
 ## Built with
-Cloud: Microsoft Azure
+Cloud: Microsoft Azure Blob storage
 
 Programming Language: Python
 
