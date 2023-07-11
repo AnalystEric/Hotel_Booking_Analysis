@@ -1,19 +1,8 @@
 # <p align="center">Hotel Booking Analysis</p>
 
-## Background of the project
-An imaginary company called AtliQ Grands is a hotel chain that has operated in various cities in India for over 20 years. Their operations cover Delhi, Mumbai, Bangalore, and Hyderabad.
-
-AltiQ Grands have four level hotels to let guests choose from AtliQ Seasons, AtliQ Exotica, AtliQ Bay, and AtliQ Palace. For example, AtliQ Palace is a luxury hotel, and AtliQ Seasons is a business hotel.
-Furthermore, AtliQ Grand have different types of rooms: standard, elite, premium, and presidential. Customers can book the rooms on AtliQ's website or a third-party website.
-
-**Five steps are included in the project.**
-1. Understand Business Problems
-2. Data Exploration
-3. Data Cleaning
-4. Data Transformation
-5. Insight Generation
-
 ## Built with
+Cloud: Microsoft Azure
+
 Programming Language: Python
 
 Libraries used:
@@ -21,12 +10,17 @@ Libraries used:
 - Matplotlib.pyplot - for creating visualisations, and pyplot provides a simplified interface for creating charts and plots
 - Numpy - for numerical computing
 
-
-
 NoteBook: Jupyternote book
 
-Dataset Source: Codebasics.io
+## Project Overview
+Using Python to make data-informed decisions, this project aims to help a hotel chain increase its revenue by presenting key findings on hotel performance metrics such as occupancy rates, revenue trends, and customer satisfaction scores. This approach enables data-driven decision-making.
 
+**Five steps are included in the project.**
+1. Understand Business Problems
+2. Data Exploration
+3. Data Cleaning
+4. Data Transformation
+5. Insight Generation
 
 
 ## About the datasets
