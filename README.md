@@ -16,7 +16,7 @@ NoteBook: Jupyternote book
 Using Python to make data-informed decisions, this project aims to help a hotel chain increase its revenue by presenting key findings on hotel performance metrics such as occupancy rates, revenue trends, and customer satisfaction scores. This approach enables data-driven decision-making.
 
 **Five steps are included in the project.**
-1. Understand Business Problems
+1. Business Problems
 2. Data Exploration
 3. Data Cleaning
 4. Data Transformation
