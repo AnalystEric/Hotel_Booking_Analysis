@@ -26,7 +26,7 @@ Using Python to make data-informed decisions, this project aims to help a hotel 
 ## About the datasets
 **Developed cloud backend utilising Azure Blob storage.**
 
-![Screenshot 2023-07-11 at 20 28 45](https://github.com/AnalystEric/Hotel_Booking_Analysis/assets/127030648/6abff020-2c49-4a0c-8bf0-df18b81fbe0b)
+![Screenshot 2023-07-11 at 20 35 52](https://github.com/AnalystEric/Hotel_Booking_Analysis/assets/127030648/910a21dd-ec98-48ee-9297-c49224798f1b)
 
 
 We have six CSV files for this project.
